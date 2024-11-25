@@ -1,0 +1,7 @@
+# Ignore all directories
+*/
+
+# Ignore all CSV files
+*.csv
+*.zip
+*.txt
